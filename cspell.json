@@ -1,0 +1,9 @@
+{
+	"version": "0.2",
+	"ignorePaths": [".prettierrc.json"],
+	"dictionaryDefinitions": [],
+	"dictionaries": [],
+	"words": ["Empcode"],
+	"ignoreWords": [],
+	"import": []
+}
