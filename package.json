@@ -2,7 +2,7 @@
 	"name": "fg-group-apis",
 	"version": "2.0.0",
 	"description": "FG GROUP APIs.",
-	"main": "index.js",
+	"main": "server.js",
 	"scripts": {
 		"start": "nodemon --trace-warnings server.js",
 		"prepare": "husky",
